@@ -23,7 +23,7 @@ O **README** explica o que o projeto faz, qual problema ele resolve, qual sua mo
 * **Como Instalar:** Funciona como o manual de instrução, assim quem acessa o seu repositório consegue testar a aplicação na própria máquina.
 * **Autor e Contato:** Mostra quem criou o projeto, abre portas para caso alguém queira dar alguma dica ou queixa sobre algo do projeto e facilita o contato de recrutadores ou parceiros interessados no seu trabalho.
 
-#O Poder do Markdown: É um jeito muito fácil de formatar textos, você digita símbolos do teclado e ele transforma tudo em uma página organizada de informações no GitHub.
+# O Poder do Markdown: É um jeito muito fácil de formatar textos, você digita símbolos do teclado e ele transforma tudo em uma página organizada de informações no GitHub.
 
 ---
 
@@ -35,10 +35,10 @@ Ele serve para editar um arquivo do GitHub. É ótimo para correções rápidas 
 ### Git via Linha de Comando (Terminal)
 É o método tradicional feito diretamente por texto no terminal por comandos, o fluxo clássico tem três passos principais:
 
-* `git status`: mostra o que foi modificado.
-* `git add .` *(ou `git add arquivo.py`)*: escolhe o que entrará no próximo commit (a chamada área de preparação, ou *staging*).
-* `git commit -m "mensagem clara"`: registra o retrato das mudanças localmente.
-* `git push origin main`: envia para o GitHub.
+* git status: mostra o que foi modificado.
+* git add . *(ou `git add arquivo.py`)*: escolhe o que entrará no próximo commit (a chamada área de preparação, ou *staging*).
+* git commit -m "mensagem clara": registra o retrato das mudanças localmente.
+* git push origin main: envia para o GitHub.
 
 Ele funciona em qualquer sistema operacional, é leve, não trava o computador e dá controle total para resolver problemas complexos que os programas normais não conseguem.
 
