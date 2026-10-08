@@ -23,7 +23,7 @@ O **README** explica o que o projeto faz, qual problema ele resolve, qual sua mo
 * **Como Instalar:** Funciona como o manual de instrução, assim quem acessa o seu repositório consegue testar a aplicação na própria máquina.
 * **Autor e Contato:** Mostra quem criou o projeto, abre portas para caso alguém queira dar alguma dica ou queixa sobre algo do projeto e facilita o contato de recrutadores ou parceiros interessados no seu trabalho.
 
-> **O Poder do Markdown:** É um jeito muito fácil de formatar textos, você digita símbolos do teclado e ele transforma tudo em uma página organizada de informações no GitHub.
+#O Poder do Markdown: É um jeito muito fácil de formatar textos, você digita símbolos do teclado e ele transforma tudo em uma página organizada de informações no GitHub.
 
 ---
 
